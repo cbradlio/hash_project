@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "ios": "cpp",
+        "iterator": "cpp",
+        "string": "cpp",
+        "string_view": "cpp",
+        "vector": "cpp",
+        "__tree": "cpp",
+        "algorithm": "cpp"
+    }
+}
